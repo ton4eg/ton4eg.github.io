@@ -3,4 +3,4 @@ layout: master
 title: Контакты
 ---
 
-contact
+smart-running@yandex.ru
